@@ -1,3 +1,17 @@
 header{
     margin-bottom: 35px;
 }
+
+.list-group{
+    margin-bottom: 25px;
+} 
+
+.title{
+    font-size: 20px;
+    background-color:darkcyan;
+    font-weight: bold;
+}
+
+.author{
+    font-size: 12px;
+}
